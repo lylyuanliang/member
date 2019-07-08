@@ -57,7 +57,7 @@ export default class Common {
     }
 
     /**
-     * 绑定2019年7月6日21:12:35
+     * 绑定事件
      * @param eventName 事件名称
      * @param selector 选择器
      * @param collback 回调函数
