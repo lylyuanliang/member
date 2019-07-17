@@ -1,13 +1,15 @@
 [
   {
-    "key": "*|[0]",
+    "key": "*|0",
     "name": "test1",
     "value": "ddddddddd",
+    "validMark": true,
     "children": [
       {
         "key": "23222",
         "name": "test1",
         "value": "ddddddddd",
+        "validMark": true,
         "children": [
 
         ]
@@ -18,6 +20,7 @@
     "key": "222",
     "name": "test2",
     "value": "ddddddddd",
+    "validMark": true,
     "children": [
 
     ]
